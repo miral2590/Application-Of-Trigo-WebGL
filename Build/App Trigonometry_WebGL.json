@@ -1,0 +1,17 @@
+{
+"companyName": "FeeltechDigivation",
+"productName": "Application of trigonometry",
+"productVersion": "0.1",
+"dataUrl": "App Trigonometry_WebGL.data.unityweb",
+"wasmCodeUrl": "App Trigonometry_WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "App Trigonometry_WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "App Trigonometry_WebGL.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.25f1"
+}
